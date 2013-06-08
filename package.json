@@ -1,0 +1,19 @@
+{
+  "name": "component-whitespace",
+  "version": "0.1.0",
+  "description": "css-whitespace plugin for Component",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "",
+  "keywords": [
+    "builder",
+    "component",
+    "plugin",
+    "css"
+  ],
+  "author": "Anthony Short",
+  "license": "BSD",
+  "dependencies": {
+    "css-whitespace": "*"
+  }
+}
